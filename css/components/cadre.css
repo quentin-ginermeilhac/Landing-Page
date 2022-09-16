@@ -1,0 +1,8 @@
+.cadre{
+    border : 3px solid #C0B236;
+    margin : 30px;
+    border-radius: 25px;
+    padding : 10px;
+    box-shadow : 12px 12px 7px #25316D;
+    width : auto;
+}

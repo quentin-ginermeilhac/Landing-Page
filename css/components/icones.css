@@ -1,0 +1,10 @@
+.icones{
+    display : flex;
+    justify-content : center;
+    gap : 30px;
+    align-items : center;
+}
+
+.icones img{
+    height : 50px;
+}
